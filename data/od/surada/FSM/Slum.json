@@ -12,25 +12,25 @@
          "name": "Bandhahuda Netaji Sahi Ward No-06",
          "active": "true",
          "code": "SRSL002",
-         "locality": "VIL2"
+         "locality": "VIL1"
         },
         {
          "name": "Duma Sahi Ward No-02",
          "active": "true",
          "code": "SRSL003",
-         "locality": "VIL3"
+         "locality": "VIL1"
         },
         {
          "name": "Bada pana sahi Ward No-02",
          "active": "true",
          "code": "SRSL004",
-         "locality": "VIL4"
+         "locality": "VIL1"
         },
         {
          "name": "Marathi Sahi Ward No-10",
          "active": "true",
          "code": "SRSL005",
-         "locality": "VIL5"
+         "locality": "VIL1"
         }
        ]
 }
