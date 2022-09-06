@@ -12,49 +12,49 @@
          "name": "Kotha Street",
          "active": "true",
          "code": "KASL002",
-         "locality": "VIL2"
+         "locality": "VIL1"
         },
         {
          "name": "Khandava Road",
          "active": "true",
          "code": "KASL003",
-         "locality": "VIL3"
+         "locality": "VIL1"
         },
         {
          "name": "Banda Street lane-1",
          "active": "true",
          "code": "KASL004",
-         "locality": "VIL4"
+         "locality": "VIL1"
         },
         {
          "name": "Banda Street lane-2",
          "active": "true",
          "code": "KASL005",
-         "locality": "VIL5"
+         "locality": "VIL1"
         },
         {
          "name": "Police quarter street",
          "active": "true",
          "code": "KASL006",
-         "locality": "VIL6"
+         "locality": "VIL1"
         },
         {
          "name": "Harijan street lane-1",
          "active": "true",
          "code": "KASL007",
-         "locality": "VIL7"
+         "locality": "VIL1"
         },
         {
          "name": "Harijan street lane-2",
          "active": "true",
          "code": "KASL008",
-         "locality": "VIL8"
+         "locality": "VIL1"
         },
         {
          "name": "Big mala street",
          "active": "true",
          "code": "KASL009",
-         "locality": "VIL9"
+         "locality": "VIL1"
         }
        ]
 }

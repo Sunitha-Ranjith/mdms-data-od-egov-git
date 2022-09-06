@@ -12,13 +12,13 @@
             "name": "Galupada",
             "active": true,
             "code": "JGSL002",
-            "locality": "VIL2"
+            "locality": "VIL1"
         },
         {
             "name": "Purohitpur",
             "active": true,
             "code": "JGSL003",
-            "locality": "VIL3"
+            "locality": "VIL1"
         }
         
     ]
